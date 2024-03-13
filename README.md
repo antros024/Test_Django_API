@@ -4,14 +4,9 @@ This a little test for my Django skill and to try Docker.
 
 ## Installation
 
-First Install python 3.11
-Linux:
-Install pyenv (if you haven't already)
-```bash
-curl https://pyenv.run | bash
-```
-
 ### Install Python 3.11
+
+First Install python 3.11
 
 Linux:
 ```bash
@@ -22,6 +17,7 @@ Windows:
 ```bash
 choco install python --version=3.11.0
 ```
+### Clone repo
 
 Clone the project with this command
 ```bash
